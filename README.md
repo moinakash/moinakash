@@ -37,12 +37,6 @@ Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation o
 
 ### 🏆 Flaunting My Badge Collection: A Showcase of Accomplishments!
 
-# Badges
-
-
-
-# Badges
-
 | | | |
 |:-----:|:-----:|:-----:|
 |<img src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png"  width="50%" height="30%"> <br> **[Google IT Support Certificate](https://www.credly.com/badges/d4e8cc8c-2a28-4420-ae6f-33c5986a41bd)** <br> [Coursera](https://www.credly.com/org/coursera)|<img src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"  width="50%" height="30%"> <br> **[Python for Data Science](https://www.credly.com/badges/568bb35e-5fe3-4994-9482-be3a25cb3f3c)** <br> [IBM](https://www.credly.com/org/ibm) | <img src="https://images.credly.com/size/340x340/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png"  width="50%" height="30%"> <br> **[Advanced Data Science ](https://www.credly.com/badges/568bb35e-5fe3-4994-9482-be3a25cb3f3c)** <br> [IBM](https://www.credly.com/org/ibm) | 
