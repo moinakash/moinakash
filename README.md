@@ -1,8 +1,18 @@
 # 👨‍💻 Md. Mainuddin Akash
 
-**`Digital Craftsman (Developer/GraphicDesigner/Creator)`**
+**`Digital Craftsman (App Developer/ Graphic Designer / Web Developer / Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
+Hey there, folks! I'm Akash, and I'm here to blow your mind with my tech prowess and infectious passion for innovation! When it comes to app development, I'm your go-to guy with expertise in Java, Kotlin, Objective C, and Swift. Brace yourselves for mind-blowing mobile apps that will leave you in awe!
+
+But wait, there's more! I've got a knack for web development too. With my skills in PHP, HTML, CSS, and Laravel, I bring websites to life, making them shine brighter than ever before!
+
+Oh, and let's not forget my artistic side. As a graphic and UI/UX designer, I unleash my creative superpowers to craft visuals that will sweep you off your feet. Get ready for captivating designs and user-friendly interfaces that'll make you fall in love with every click!
+
+And hey, I'm not just a tech wizard—I'm an SEO expert as well. I know how to optimize websites, making sure they soar through search engine rankings like a shooting star!
+
+Currently pursuing an MSc in Data Science, I'm fueling my technical brilliance with the power of data analysis and exploration. The digital realm is my playground, and I'm here to make an unforgettable impact with my boundless energy and innovative ideas.
+
+So buckle up and get ready for a wild ride! Akash is here to blow your mind and revolutionize the digital world like never before. Get ready to be amazed!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -39,7 +49,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-<!-- ### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![I Accidentally Made a Future Proof API (with AI and Web Data)](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=I+Accidentally+Made+a+Future+Proof+API+%28with+AI+and+Web+Data%29&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "I Accidentally Made a Future Proof API (with AI and Web Data)")](https://www.youtube.com/watch?v=tF1vJ71KnHY)
@@ -52,7 +62,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-# -->
+#
 
 ### 📊 Stats
 
