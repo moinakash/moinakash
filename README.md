@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Md Mainuddin Akash" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&color=885BF7&width=435&lines=5%2B+years+of+coding+Experience;Experienced+Mobile+App+Developer;Web+Developer;Graphic's+%26+UI%2FUX+Designer;SEO+Expert;Currently+Exploring+Data+Science" alt="Typing SVG" /></a>
+</p>
+
 # 🥷 Md. Mainuddin Akash
 
 **`Tech Samurai (App Developer/ Web Developer / Graphic Designer / SEO Expert / Artist)`**
