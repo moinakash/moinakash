@@ -49,7 +49,7 @@ Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation o
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="XD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/>
 
-
+<br/>
 
 #
 
