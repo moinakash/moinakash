@@ -2,7 +2,7 @@
 
 **`Tech Samurai (App Developer/ Web Developer / Graphic Designer / SEO Expert / Artist)`**
 
-Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation of mid-level knowledge. My specialty lies in crafting innovative mobile apps using Java, Kotlin, Objective C, and Swift. I also excel in web development, bringing websites to life through PHP, HTML, CSS, and Laravel. With my skills in graphic and UI/UX design, I create captivating visuals and user-friendly interfaces. Combining my expertise in SEO and my ongoing pursuit of an MSc in Data Science, I merge technical prowess with creative energy, leaving a lasting impact in the digital realm. Join me on an exciting journey filled with awe and inspiration!
+Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation of mid-level knowledge. My specialty lies in crafting innovative mobile apps using Flutter, Java, Kotlin, Objective C, and Swift. I also excel in web development, bringing websites to life through PHP, HTML, CSS, and Laravel. With my skills in graphic and UI/UX design, I create captivating visuals and user-friendly interfaces. Combining my expertise in SEO and my ongoing pursuit of an MSc in Data Science, I merge technical prowess with creative energy, leaving a lasting impact in the digital realm. Join me on an exciting journey filled with awe and inspiration!
 
   <p align="left">
     <a href="#">
@@ -60,7 +60,7 @@ Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation o
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   Hey there! I'm Md Mainuddin Akash, a high-energy tech enthusiast ready to take on the world of innovation! With my coding prowess in Java, Kotlin, Objective C, and Swift, I whip up jaw-dropping mobile apps that'll leave users craving for more!
+   Hey there! I'm Md Mainuddin Akash, a high-energy tech enthusiast ready to take on the world of innovation! With my coding prowess in FLutter, Java, Kotlin, Objective C, and Swift, I whip up jaw-dropping mobile apps that'll leave users craving for more!
 
 But wait, there's more! When it comes to web development, I'm a master of PHP, HTML, CSS, and Laravel, injecting life into websites that scream style and functionality.
 
