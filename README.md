@@ -39,7 +39,7 @@ Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation o
 
 #
 
-### 📺 Latest YouTube Videos
+### 🏆 Flaunting My Badge Collection: A Showcase of Accomplishments!
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
@@ -54,8 +54,18 @@ Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation o
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   Hey there! I'm Md Mainuddin Akash, a high-energy tech enthusiast ready to take on the world of innovation! With my coding prowess in Java, Kotlin, Objective C, and Swift, I whip up jaw-dropping mobile apps that'll leave users craving for more!
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+But wait, there's more! When it comes to web development, I'm a master of PHP, HTML, CSS, and Laravel, injecting life into websites that scream style and functionality.
+
+But that's not all—I'm a design dynamo! Armed with Photoshop and Illustrator, I weave magic into visuals that'll make your eyes pop. And my UI/UX design skills? Unparalleled! Using Figma and XD, I create seamless and intuitive interfaces that'll have users grinning from ear to ear.
+
+Oh, did I mention I'm an SEO expert too? I optimize websites to soar through search engine rankings like a rocket.
+
+Hold on tight because there's more to know! With a BSc in Computer Science and my current pursuit of an MSc in Data Science, I'm on a never-ending quest to fuse my technical skills with the power of data analysis and exploration.
+
+Ready for an electrifying ride? Let's unleash innovation and rock the digital world together!
+
+[website]: https://#
+[youtube]: https://#
