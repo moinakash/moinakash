@@ -2,17 +2,7 @@
 
 **`Digital Craftsman (App Developer/ Graphic Designer / Web Developer / Creator)`**
 
-Hey there, folks! I'm Akash, and I'm here to blow your mind with my tech prowess and infectious passion for innovation! When it comes to app development, I'm your go-to guy with expertise in Java, Kotlin, Objective C, and Swift. Brace yourselves for mind-blowing mobile apps that will leave you in awe!
-
-But wait, there's more! I've got a knack for web development too. With my skills in PHP, HTML, CSS, and Laravel, I bring websites to life, making them shine brighter than ever before!
-
-Oh, and let's not forget my artistic side. As a graphic and UI/UX designer, I unleash my creative superpowers to craft visuals that will sweep you off your feet. Get ready for captivating designs and user-friendly interfaces that'll make you fall in love with every click!
-
-And hey, I'm not just a tech wizard—I'm an SEO expert as well. I know how to optimize websites, making sure they soar through search engine rankings like a shooting star!
-
-Currently pursuing an MSc in Data Science, I'm fueling my technical brilliance with the power of data analysis and exploration. The digital realm is my playground, and I'm here to make an unforgettable impact with my boundless energy and innovative ideas.
-
-So buckle up and get ready for a wild ride! Akash is here to blow your mind and revolutionize the digital world like never before. Get ready to be amazed!
+Hey there, I'm Akash, an enthusiastic tech enthusiast with a strong foundation of mid-level knowledge. My specialty lies in crafting innovative mobile apps using Java, Kotlin, Objective C, and Swift. I also excel in web development, bringing websites to life through PHP, HTML, CSS, and Laravel. With my skills in graphic and UI/UX design, I create captivating visuals and user-friendly interfaces. Combining my expertise in SEO and my ongoing pursuit of an MSc in Data Science, I merge technical prowess with creative energy, leaving a lasting impact in the digital realm. Join me on an exciting journey filled with awe and inspiration!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
