@@ -1,4 +1,4 @@
-# 👨‍💻 Md. Mainuddin Akash
+# 🥷 Md. Mainuddin Akash
 
 **`Tech Samurai (App Developer/ Web Developer / Graphic Designer / SEO Expert / Artist)`**
 
